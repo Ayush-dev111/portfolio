@@ -1,5 +1,5 @@
 const envvars = {
-    BASE_URL: (import.meta.env?.VITE_BASE_URL || "https://www.linkedin.com/in/sameer-kumar-03b2b3326").replace(/\/$/, ""),
+    BASE_URL: (import.meta.env?.VITE_BASE_URL || "https://www.linkedin.com/in/ayush-negi").replace(/\/$/, ""),
 };
 
 export default envvars;

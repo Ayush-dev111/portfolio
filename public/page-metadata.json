@@ -1,17 +1,17 @@
 {
-  "/projects": {
+  "/": {
     "metadata": {
-      "title": "Projects | Sameer Kumar",
-      "description": "Full-stack SaaS projects built by  Sameer Kumar — rum-core RUM monitoring, Blade Tools, Mapware threat intelligence, Ref.com link management, and more.",
-      "canonical": "http://localhost:3000/projects",
+      "title": "Ayush Negi | Software Developer",
+      "description": "Software developer from India building fast, scalable web apps with TypeScript, React, Next.js, Node.js. Open to freelance and full-time opportunities.",
+      "canonical": "https://ayush.dev/",
       "openGraph": {
-        "title": "Projects",
-        "description": "Full-stack SaaS projects built by Sameer Kumar — rum-core RUM monitoring, Blade Tools, Mapware threat intelligence, Ref.com link management, and more.",
+        "title": "Ayush Negi | Software Developer",
+        "description": "Software developer from India building fast, scalable web apps with TypeScript, React, Next.js, Node.js. Open to freelance and full-time opportunities.",
         "type": "website",
-        "url": "http://localhost:3000/projects",
+        "url": "https://ayush.dev/",
         "images": [
           {
-            "url": "http://localhost:3000/preview.webp"
+            "url": "https://www.linkedin.com/in/ayush-negi/preview.webp"
           }
         ]
       }
@@ -19,18 +19,719 @@
     "jsonLd": {
       "@context": "https://schema.org",
       "@type": "WebPage",
-      "name": "Projects | Sameer Kumar",
-      "description": "Full-stack SaaS projects built by Sameer Kumar — rum-core RUM monitoring, Blade Tools, Mapware threat intelligence, Ref.com link management, and more.",
-      "url": "http://localhost:3000/projects",
+      "name": "Ayush Negi | Software Developer",
+      "description": "Software developer from India building fast, scalable web apps with TypeScript, React, Next.js, Node.js. Open to freelance and full-time opportunities.",
+      "url": "https://ayush.dev/",
       "author": {
         "@type": "Person",
-        "name": "Sameer Kumar",
-        "url": "http://localhost:3000"
+        "name": "Ayush Negi",
+        "url": "https://ayush.dev"
       },
       "isPartOf": {
         "@type": "WebSite",
-        "name": "Sameer Kumar | Software Developer",
-        "url": "http://localhost:3000"
+        "name": "Ayush Negi | Software Developer",
+        "url": "https://ayush.dev"
+      }
+    }
+  },
+  "/projects": {
+    "metadata": {
+      "title": "Projects | Ayush Negi",
+      "description": "Full-stack SaaS projects built by Ayush — rum-core RUM monitoring, Blade Tools, Mapware threat intelligence, Ref.com link management, and more.",
+      "canonical": "https://ayush.dev/projects",
+      "openGraph": {
+        "title": "Projects",
+        "description": "Full-stack SaaS projects built by Ayush — rum-core RUM monitoring, Blade Tools, Mapware threat intelligence, Ref.com link management, and more.",
+        "type": "website",
+        "url": "https://ayush.dev/projects",
+        "images": [
+          {
+            "url": "https://www.linkedin.com/in/ayush-negi/preview.webp"
+          }
+        ]
+      }
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Projects | Ayush Negi",
+      "description": "Full-stack SaaS projects built by Ayush — rum-core RUM monitoring, Blade Tools, Mapware threat intelligence, Ref.com link management, and more.",
+      "url": "https://ayush.dev/projects",
+      "author": {
+        "@type": "Person",
+        "name": "Ayush Negi",
+        "url": "https://ayush.dev"
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Ayush Negi | Software Developer",
+        "url": "https://ayush.dev"
+      }
+    }
+  },
+  "/now": {
+    "metadata": {
+      "title": "Now | Ayush Negi",
+      "description": "What Ayush is working on now — current projects, learning goals, and open source contributions.",
+      "canonical": "https://ayush.dev/now",
+      "openGraph": {
+        "title": "Now",
+        "description": "What Ayush is working on now — current projects, learning goals, and open source contributions.",
+        "type": "website",
+        "url": "https://ayush.dev/now",
+        "images": [
+          {
+            "url": "https://www.linkedin.com/in/ayush-negi/preview.webp"
+          }
+        ]
+      }
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Now | Ayush Negi",
+      "description": "What Ayush is working on now — current projects, learning goals, and open source contributions.",
+      "url": "https://ayush.dev/now",
+      "author": {
+        "@type": "Person",
+        "name": "Ayush Negi",
+        "url": "https://ayush.dev"
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Ayush Negi | Software Developer",
+        "url": "https://ayush.dev"
+      }
+    }
+  },
+  "/uses": {
+    "metadata": {
+      "title": "Uses | Ayush Negi",
+      "description": "Tools, languages, and frameworks I use daily.",
+      "canonical": "https://ayush.dev/uses",
+      "openGraph": {
+        "title": "Uses",
+        "description": "Tools, languages, and frameworks I use daily.",
+        "type": "website",
+        "url": "https://ayush.dev/uses",
+        "images": [
+          {
+            "url": "https://www.linkedin.com/in/ayush-negi/preview.webp"
+          }
+        ]
+      }
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Uses | Ayush Negi",
+      "description": "Tools, languages, and frameworks I use daily.",
+      "url": "https://ayush.dev/uses",
+      "author": {
+        "@type": "Person",
+        "name": "Ayush Negi",
+        "url": "https://ayush.dev"
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Ayush Negi | Software Developer",
+        "url": "https://ayush.dev"
+      }
+    }
+  },
+  "/locations": {
+    "metadata": {
+      "title": "About — Location & Background | Ayush Negi",
+      "description": "Software developer from India working remotely with teams across the country.",
+      "canonical": "https://ayush.dev/locations",
+      "openGraph": {
+        "title": "About — Location & Background",
+        "description": "Software developer from India working remotely with teams across the country.",
+        "type": "website",
+        "url": "https://ayush.dev/locations",
+        "images": [
+          {
+            "url": "https://www.linkedin.com/in/ayush-negi/preview.webp"
+          }
+        ]
+      }
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "About — Location & Background | Ayush Negi",
+      "description": "Software developer from India working remotely with teams across the country.",
+      "url": "https://ayush.dev/locations",
+      "author": {
+        "@type": "Person",
+        "name": "Ayush Negi",
+        "url": "https://ayush.dev"
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Ayush Negi | Software Developer",
+        "url": "https://ayush.dev"
+      }
+    }
+  },
+  "/games": {
+    "metadata": {
+      "title": "Arcade | Ayush Negi",
+      "description": "Play experimental mini-games hidden in my portfolio.",
+      "canonical": "https://ayush.dev/games",
+      "openGraph": {
+        "title": "Arcade",
+        "description": "Play experimental mini-games hidden in my portfolio.",
+        "type": "website",
+        "url": "https://ayush.dev/games",
+        "images": [
+          {
+            "url": "https://www.linkedin.com/in/ayush-negi/preview.webp"
+          }
+        ]
+      }
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Arcade | Ayush Negi",
+      "description": "Play experimental mini-games hidden in my portfolio.",
+      "url": "https://ayush.dev/games",
+      "author": {
+        "@type": "Person",
+        "name": "Ayush Negi",
+        "url": "https://ayush.dev"
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Ayush Negi | Software Developer",
+        "url": "https://ayush.dev"
+      }
+    }
+  },
+  "/games/pixel-space-invaders": {
+    "metadata": {
+      "title": "Pixel Space Invaders | Ayush Negi",
+      "description": "A mini pixel space arcade game hidden in my portfolio.",
+      "canonical": "https://ayush.dev/games/pixel-space-invaders",
+      "openGraph": {
+        "title": "Pixel Space Invaders",
+        "description": "A mini pixel space arcade game hidden in my portfolio.",
+        "type": "website",
+        "url": "https://ayush.dev/games/pixel-space-invaders",
+        "images": [
+          {
+            "url": "https://www.linkedin.com/in/ayush-negi/preview.webp"
+          }
+        ]
+      }
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Pixel Space Invaders | Ayush Negi",
+      "description": "A mini pixel space arcade game hidden in my portfolio.",
+      "url": "https://ayush.dev/games/pixel-space-invaders",
+      "author": {
+        "@type": "Person",
+        "name": "Ayush Negi",
+        "url": "https://ayush.dev"
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Ayush Negi | Software Developer",
+        "url": "https://ayush.dev"
+      }
+    }
+  },
+  "/newpage": {
+    "metadata": {
+      "title": "New Page | Ayush Negi",
+      "description": "A clock and notes page.",
+      "canonical": "https://ayush.dev/newpage",
+      "openGraph": {
+        "title": "New Page",
+        "description": "A clock and notes page.",
+        "type": "website",
+        "url": "https://ayush.dev/newpage",
+        "images": [
+          {
+            "url": "https://www.linkedin.com/in/ayush-negi/preview.webp"
+          }
+        ]
+      }
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "New Page | Ayush Negi",
+      "description": "A clock and notes page.",
+      "url": "https://ayush.dev/newpage",
+      "author": {
+        "@type": "Person",
+        "name": "Ayush Negi",
+        "url": "https://ayush.dev"
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Ayush Negi | Software Developer",
+        "url": "https://ayush.dev"
+      }
+    }
+  },
+  "/404": {
+    "metadata": {
+      "title": "Page Not Found | Ayush Negi",
+      "description": "The requested page could not be found.",
+      "canonical": "https://ayush.dev/404",
+      "openGraph": {
+        "title": "Page Not Found",
+        "description": "The requested page could not be found.",
+        "type": "website",
+        "url": "https://ayush.dev/404",
+        "images": [
+          {
+            "url": "https://www.linkedin.com/in/ayush-negi/preview.webp"
+          }
+        ]
+      },
+      "noindex": true
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Page Not Found | Ayush Negi",
+      "description": "The requested page could not be found.",
+      "url": "https://ayush.dev/404",
+      "author": {
+        "@type": "Person",
+        "name": "Ayush Negi",
+        "url": "https://ayush.dev"
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Ayush Negi | Software Developer",
+        "url": "https://ayush.dev"
+      }
+    }
+  },
+  "/locations/raipur": {
+    "metadata": {
+      "title": "Software Developer in Raipur, Chhattisgarh | Ayush Negi",
+      "description": "Software developer from India with experience building products for teams in Raipur, Chhattisgarh and remotely across the country.",
+      "canonical": "https://ayush.dev/locations/raipur",
+      "openGraph": {
+        "title": "Software Developer in Raipur, Chhattisgarh",
+        "description": "Software developer from India with experience building products for teams in Raipur, Chhattisgarh and remotely across the country.",
+        "type": "website",
+        "url": "https://ayush.dev/locations/raipur",
+        "images": [
+          {
+            "url": "https://www.linkedin.com/in/ayush-negi/preview.webp"
+          }
+        ]
+      }
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Software Developer in Raipur, Chhattisgarh | Ayush Negi",
+      "description": "Software developer from India with experience building products for teams in Raipur, Chhattisgarh and remotely across the country.",
+      "url": "https://ayush.dev/locations/raipur",
+      "author": {
+        "@type": "Person",
+        "name": "Ayush Negi",
+        "url": "https://ayush.dev"
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Ayush Negi | Software Developer",
+        "url": "https://ayush.dev"
+      }
+    }
+  },
+  "/locations/indore": {
+    "metadata": {
+      "title": "Software Developer in Indore, Madhya Pradesh | Ayush Negi",
+      "description": "Software developer from India with experience building products for teams in Indore, Madhya Pradesh and remotely across the country.",
+      "canonical": "https://ayush.dev/locations/indore",
+      "openGraph": {
+        "title": "Software Developer in Indore, Madhya Pradesh",
+        "description": "Software developer from India with experience building products for teams in Indore, Madhya Pradesh and remotely across the country.",
+        "type": "website",
+        "url": "https://ayush.dev/locations/indore",
+        "images": [
+          {
+            "url": "https://www.linkedin.com/in/ayush-negi/preview.webp"
+          }
+        ]
+      }
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Software Developer in Indore, Madhya Pradesh | Ayush Negi",
+      "description": "Software developer from India with experience building products for teams in Indore, Madhya Pradesh and remotely across the country.",
+      "url": "https://ayush.dev/locations/indore",
+      "author": {
+        "@type": "Person",
+        "name": "Ayush Negi",
+        "url": "https://ayush.dev"
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Ayush Negi | Software Developer",
+        "url": "https://ayush.dev"
+      }
+    }
+  },
+  "/locations/bhilai": {
+    "metadata": {
+      "title": "Software Developer in Bhilai, Chhattisgarh | Ayush Negi",
+      "description": "Software developer from India with experience building products for teams in Bhilai, Chhattisgarh and remotely across the country.",
+      "canonical": "https://ayush.dev/locations/bhilai",
+      "openGraph": {
+        "title": "Software Developer in Bhilai, Chhattisgarh",
+        "description": "Software developer from India with experience building products for teams in Bhilai, Chhattisgarh and remotely across the country.",
+        "type": "website",
+        "url": "https://ayush.dev/locations/bhilai",
+        "images": [
+          {
+            "url": "https://www.linkedin.com/in/ayush-negi/preview.webp"
+          }
+        ]
+      }
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Software Developer in Bhilai, Chhattisgarh | Ayush Negi",
+      "description": "Software developer from India with experience building products for teams in Bhilai, Chhattisgarh and remotely across the country.",
+      "url": "https://ayush.dev/locations/bhilai",
+      "author": {
+        "@type": "Person",
+        "name": "Ayush Negi",
+        "url": "https://ayush.dev"
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Ayush Negi | Software Developer",
+        "url": "https://ayush.dev"
+      }
+    }
+  },
+  "/locations/bhopal": {
+    "metadata": {
+      "title": "Software Developer in Bhopal, Madhya Pradesh | Ayush Negi",
+      "description": "Software developer from India with experience building products for teams in Bhopal, Madhya Pradesh and remotely across the country.",
+      "canonical": "https://ayush.dev/locations/bhopal",
+      "openGraph": {
+        "title": "Software Developer in Bhopal, Madhya Pradesh",
+        "description": "Software developer from India with experience building products for teams in Bhopal, Madhya Pradesh and remotely across the country.",
+        "type": "website",
+        "url": "https://ayush.dev/locations/bhopal",
+        "images": [
+          {
+            "url": "https://www.linkedin.com/in/ayush-negi/preview.webp"
+          }
+        ]
+      }
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Software Developer in Bhopal, Madhya Pradesh | Ayush Negi",
+      "description": "Software developer from India with experience building products for teams in Bhopal, Madhya Pradesh and remotely across the country.",
+      "url": "https://ayush.dev/locations/bhopal",
+      "author": {
+        "@type": "Person",
+        "name": "Ayush Negi",
+        "url": "https://ayush.dev"
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Ayush Negi | Software Developer",
+        "url": "https://ayush.dev"
+      }
+    }
+  },
+  "/locations/nagpur": {
+    "metadata": {
+      "title": "Software Developer in Nagpur, Maharashtra | Ayush Negi",
+      "description": "Software developer from India with experience building products for teams in Nagpur, Maharashtra and remotely across the country.",
+      "canonical": "https://ayush.dev/locations/nagpur",
+      "openGraph": {
+        "title": "Software Developer in Nagpur, Maharashtra",
+        "description": "Software developer from India with experience building products for teams in Nagpur, Maharashtra and remotely across the country.",
+        "type": "website",
+        "url": "https://ayush.dev/locations/nagpur",
+        "images": [
+          {
+            "url": "https://www.linkedin.com/in/ayush-negi/preview.webp"
+          }
+        ]
+      }
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Software Developer in Nagpur, Maharashtra | Ayush Negi",
+      "description": "Software developer from India with experience building products for teams in Nagpur, Maharashtra and remotely across the country.",
+      "url": "https://ayush.dev/locations/nagpur",
+      "author": {
+        "@type": "Person",
+        "name": "Ayush Negi",
+        "url": "https://ayush.dev"
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Ayush Negi | Software Developer",
+        "url": "https://ayush.dev"
+      }
+    }
+  },
+  "/locations/mumbai": {
+    "metadata": {
+      "title": "Software Developer in Mumbai, Maharashtra | Ayush Negi",
+      "description": "Software developer from India with experience building products for teams in Mumbai, Maharashtra and remotely across the country.",
+      "canonical": "https://ayush.dev/locations/mumbai",
+      "openGraph": {
+        "title": "Software Developer in Mumbai, Maharashtra",
+        "description": "Software developer from India with experience building products for teams in Mumbai, Maharashtra and remotely across the country.",
+        "type": "website",
+        "url": "https://ayush.dev/locations/mumbai",
+        "images": [
+          {
+            "url": "https://www.linkedin.com/in/ayush-negi/preview.webp"
+          }
+        ]
+      }
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Software Developer in Mumbai, Maharashtra | Ayush Negi",
+      "description": "Software developer from India with experience building products for teams in Mumbai, Maharashtra and remotely across the country.",
+      "url": "https://ayush.dev/locations/mumbai",
+      "author": {
+        "@type": "Person",
+        "name": "Ayush Negi",
+        "url": "https://ayush.dev"
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Ayush Negi | Software Developer",
+        "url": "https://ayush.dev"
+      }
+    }
+  },
+  "/locations/delhi": {
+    "metadata": {
+      "title": "Software Developer in Delhi, Delhi | Ayush Negi",
+      "description": "Software developer from India with experience building products for teams in Delhi, Delhi and remotely across the country.",
+      "canonical": "https://ayush.dev/locations/delhi",
+      "openGraph": {
+        "title": "Software Developer in Delhi, Delhi",
+        "description": "Software developer from India with experience building products for teams in Delhi, Delhi and remotely across the country.",
+        "type": "website",
+        "url": "https://ayush.dev/locations/delhi",
+        "images": [
+          {
+            "url": "https://www.linkedin.com/in/ayush-negi/preview.webp"
+          }
+        ]
+      }
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Software Developer in Delhi, Delhi | Ayush Negi",
+      "description": "Software developer from India with experience building products for teams in Delhi, Delhi and remotely across the country.",
+      "url": "https://ayush.dev/locations/delhi",
+      "author": {
+        "@type": "Person",
+        "name": "Ayush Negi",
+        "url": "https://ayush.dev"
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Ayush Negi | Software Developer",
+        "url": "https://ayush.dev"
+      }
+    }
+  },
+  "/locations/bangalore": {
+    "metadata": {
+      "title": "Software Developer in Bangalore, Karnataka | Ayush Negi",
+      "description": "Software developer from India with experience building products for teams in Bangalore, Karnataka and remotely across the country.",
+      "canonical": "https://ayush.dev/locations/bangalore",
+      "openGraph": {
+        "title": "Software Developer in Bangalore, Karnataka",
+        "description": "Software developer from India with experience building products for teams in Bangalore, Karnataka and remotely across the country.",
+        "type": "website",
+        "url": "https://ayush.dev/locations/bangalore",
+        "images": [
+          {
+            "url": "https://www.linkedin.com/in/ayush-negi/preview.webp"
+          }
+        ]
+      }
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Software Developer in Bangalore, Karnataka | Ayush Negi",
+      "description": "Software developer from India with experience building products for teams in Bangalore, Karnataka and remotely across the country.",
+      "url": "https://ayush.dev/locations/bangalore",
+      "author": {
+        "@type": "Person",
+        "name": "Ayush Negi",
+        "url": "https://ayush.dev"
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Ayush Negi | Software Developer",
+        "url": "https://ayush.dev"
+      }
+    }
+  },
+  "/locations/hyderabad": {
+    "metadata": {
+      "title": "Software Developer in Hyderabad, Telangana | Ayush Negi",
+      "description": "Software developer from India with experience building products for teams in Hyderabad, Telangana and remotely across the country.",
+      "canonical": "https://ayush.dev/locations/hyderabad",
+      "openGraph": {
+        "title": "Software Developer in Hyderabad, Telangana",
+        "description": "Software developer from India with experience building products for teams in Hyderabad, Telangana and remotely across the country.",
+        "type": "website",
+        "url": "https://ayush.dev/locations/hyderabad",
+        "images": [
+          {
+            "url": "https://www.linkedin.com/in/ayush-negi/preview.webp"
+          }
+        ]
+      }
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Software Developer in Hyderabad, Telangana | Ayush Negi",
+      "description": "Software developer from India with experience building products for teams in Hyderabad, Telangana and remotely across the country.",
+      "url": "https://ayush.dev/locations/hyderabad",
+      "author": {
+        "@type": "Person",
+        "name": "Ayush Negi",
+        "url": "https://ayush.dev"
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Ayush Negi | Software Developer",
+        "url": "https://ayush.dev"
+      }
+    }
+  },
+  "/locations/pune": {
+    "metadata": {
+      "title": "Software Developer in Pune, Maharashtra | Ayush Negi",
+      "description": "Software developer from India with experience building products for teams in Pune, Maharashtra and remotely across the country.",
+      "canonical": "https://ayush.dev/locations/pune",
+      "openGraph": {
+        "title": "Software Developer in Pune, Maharashtra",
+        "description": "Software developer from India with experience building products for teams in Pune, Maharashtra and remotely across the country.",
+        "type": "website",
+        "url": "https://ayush.dev/locations/pune",
+        "images": [
+          {
+            "url": "https://www.linkedin.com/in/ayush-negi/preview.webp"
+          }
+        ]
+      }
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Software Developer in Pune, Maharashtra | Ayush Negi",
+      "description": "Software developer from India with experience building products for teams in Pune, Maharashtra and remotely across the country.",
+      "url": "https://ayush.dev/locations/pune",
+      "author": {
+        "@type": "Person",
+        "name": "Ayush Negi",
+        "url": "https://ayush.dev"
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Ayush Negi | Software Developer",
+        "url": "https://ayush.dev"
+      }
+    }
+  },
+  "/locations/ahmedabad": {
+    "metadata": {
+      "title": "Software Developer in Ahmedabad, Gujarat | Ayush Negi",
+      "description": "Software developer from India with experience building products for teams in Ahmedabad, Gujarat and remotely across the country.",
+      "canonical": "https://ayush.dev/locations/ahmedabad",
+      "openGraph": {
+        "title": "Software Developer in Ahmedabad, Gujarat",
+        "description": "Software developer from India with experience building products for teams in Ahmedabad, Gujarat and remotely across the country.",
+        "type": "website",
+        "url": "https://ayush.dev/locations/ahmedabad",
+        "images": [
+          {
+            "url": "https://www.linkedin.com/in/ayush-negi/preview.webp"
+          }
+        ]
+      }
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Software Developer in Ahmedabad, Gujarat | Ayush Negi",
+      "description": "Software developer from India with experience building products for teams in Ahmedabad, Gujarat and remotely across the country.",
+      "url": "https://ayush.dev/locations/ahmedabad",
+      "author": {
+        "@type": "Person",
+        "name": "Ayush Negi",
+        "url": "https://ayush.dev"
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Ayush Negi | Software Developer",
+        "url": "https://ayush.dev"
+      }
+    }
+  },
+  "/locations/jaipur": {
+    "metadata": {
+      "title": "Software Developer in Jaipur, Rajasthan | Ayush Negi",
+      "description": "Software developer from India with experience building products for teams in Jaipur, Rajasthan and remotely across the country.",
+      "canonical": "https://ayush.dev/locations/jaipur",
+      "openGraph": {
+        "title": "Software Developer in Jaipur, Rajasthan",
+        "description": "Software developer from India with experience building products for teams in Jaipur, Rajasthan and remotely across the country.",
+        "type": "website",
+        "url": "https://ayush.dev/locations/jaipur",
+        "images": [
+          {
+            "url": "https://www.linkedin.com/in/ayush-negi/preview.webp"
+          }
+        ]
+      }
+    },
+    "jsonLd": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "name": "Software Developer in Jaipur, Rajasthan | Ayush Negi",
+      "description": "Software developer from India with experience building products for teams in Jaipur, Rajasthan and remotely across the country.",
+      "url": "https://ayush.dev/locations/jaipur",
+      "author": {
+        "@type": "Person",
+        "name": "Ayush Negi",
+        "url": "https://ayush.dev"
+      },
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Ayush Negi | Software Developer",
+        "url": "https://ayush.dev"
       }
     }
   }

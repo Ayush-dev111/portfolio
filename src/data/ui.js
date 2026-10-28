@@ -1,5 +1,5 @@
 export const uiContent = {
-    brand: "Sameer",
+    brand: "Ayush",
     domainSuffix: ".dev",
     role: ["Software", "Developer"],
     openToWork: "Open to work",

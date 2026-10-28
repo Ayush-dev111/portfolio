@@ -76,19 +76,19 @@ export const skills = {
 export const contactLinks = {
     github: {
         name: "github",
-        url: "https://github.com/sameerkumar236",
+        url: "https://github.com/Ayush-dev111",
         iconName: "IoLogoGithub",
         target: "_blank",
     },
     linkedIn: {
         name: "linkedin",
-        url: "https://www.linkedin.com/in/sameer-kumar-03b2b3326/",
+        url: "https://www.linkedin.com/in/ayush-negi",
         iconName: "FaLinkedinIn",
         target: "_blank",
     },
     mail: {
         name: "mail",
-        url: "mailto:sameersizoxta625@gmail.com",
+        url: "mailto:ayushnegi4d6f@gmail.com",
         iconName: "SiGmail",
         target: "_self",
     }
@@ -147,7 +147,7 @@ export const projects = [
             },
             {
                 name: "GitHub",
-                url: "https://github.com/sameerkumar236/rum-core",
+                url: "https://github.com/Ayush-dev111/rum-core",
                 iconName: "IoLogoGithub",
                 target: "_blank",
             },
@@ -170,7 +170,7 @@ export const projects = [
             },
             {
                 name: "GitHub",
-                url: "https://github.com/sameerkumar236/Code-collab",
+                url: "https://github.com/Ayush-dev111/Code-collab",
                 iconName: "IoLogoGithub",
                 target: "_blank",
             },
@@ -267,7 +267,7 @@ export const education = [
 ];
 
 export const myInfo = {
-    name: "Sameer Kumar",
+    name: "Ayush Negi",
     title: "Software Developer",
     description:
         "Software Developer specializing in the **React.js/Node.js ecosystem**, building ||privacy-first||, scalable ||SaaS products|| with a focus on operational reliability and long-term cost-efficiency.\\\\I work across the **full stack** — from **database design** and **backend APIs** to responsive **frontend interfaces** — preferring to ||own features end-to-end||.\\\\Most of what I build is shaped by one question: ||does this stay fast and cost less as it scales?||",

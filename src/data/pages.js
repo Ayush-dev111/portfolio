@@ -16,18 +16,18 @@ const createMetadata = (title, description, path) => ({
 
 export const pageMetadata = {
     home: createMetadata(
-        "Sameer Kumar | Software Developer",
+        "Ayush Negi | Software Developer",
         "Software developer from India building fast, scalable web apps with TypeScript, React, Next.js, Node.js. Open to freelance and full-time opportunities.",
         "/",
     ),
     projects: createMetadata(
         "Projects",
-        "Full-stack SaaS projects built by Sameer — rum-core RUM monitoring, Blade Tools, Mapware threat intelligence, Ref.com link management, and more.",
+        "Full-stack SaaS projects built by Ayush — rum-core RUM monitoring, Blade Tools, Mapware threat intelligence, Ref.com link management, and more.",
         "/projects",
     ),
     now: createMetadata(
         "Now",
-        "What Sameer is working on now — current projects, learning goals, and open source contributions.",
+        "What Ayush is working on now — current projects, learning goals, and open source contributions.",
         "/now",
     ),
     uses: createMetadata("Uses", "Tools, languages, and frameworks I use daily.", "/uses"),
@@ -76,7 +76,7 @@ export const pageHeadings = {
 };
 
 export const pageCopy = {
-    copyright: "Sameer.dev © 2026",
+    copyright: "Ayush.dev © 2026",
     locations: {
         origin: "Chhattisgarh, India",
         introduction: "I'm a software developer from",

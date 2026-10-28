@@ -23,7 +23,7 @@ const projectsLd = buildItemListJsonLd(
         url: p.links.find((l) => l.name === "Live")?.url,
         image: p.imageUrl ? `${envvars.BASE_URL}${p.imageUrl}` : undefined,
     })),
-    "Projects by Sameer Kumar",
+    "Projects by Ayush Negi",
 );
 
 const educationLd = JSON.stringify({
@@ -49,8 +49,8 @@ const educationLd = JSON.stringify({
 const breadcrumbLd = buildBreadcrumbListJsonLd([{ name: "Home", url: envvars.BASE_URL }]);
 
 const webPageLd = buildWebPageJsonLd(
-    "Sameer Kumar | Software Developer",
-    "Portfolio of Sameer Kumar, a full stack software developer from India.",
+    "Ayush Negi | Software Developer",
+    "Portfolio of Ayush Negi, a full stack software developer from India.",
     envvars.BASE_URL,
     "Software Development",
 );

@@ -20,4 +20,4 @@ Allow: /
 User-agent: ChatGPT-User
 Allow: /
 
-Sitemap: https://sameer.dev/sitemap.xml
+Sitemap: https://ayush.dev/sitemap.xml

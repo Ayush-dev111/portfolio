@@ -15,11 +15,11 @@ const escapeXml = (value) =>
         .replace(/'/g, "&apos;");
 
 export const generateSeoFiles = async () => {
-    const baseUrl = (process.env.VITE_BASE_URL || "https://sameer.dev").replace(/\/$/, "");
+    const baseUrl = (process.env.VITE_BASE_URL || "https://ayush.dev").replace(/\/$/, "");
     const absoluteUrl = (pathname) => new URL(pathname, `${baseUrl}/`).href;
     const imageUrl = (value) => {
         const image = new URL(value, `${baseUrl}/`);
-        return image.origin === "https://sameer.dev"
+        return image.origin === "https://ayush.dev"
             ? absoluteUrl(`${image.pathname}${image.search}${image.hash}`)
             : image.href;
     };

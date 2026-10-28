@@ -8,7 +8,7 @@ export const personJsonLd = JSON.stringify(
         "@context": "https://schema.org",
         "@type": "Person",
         name: myInfo.name,
-        alternateName: "Sameer",
+        alternateName: "Ayush",
         description: cleanedPersonDescription,
         url: envvars.BASE_URL,
         image: `${envvars.BASE_URL}${myInfo.imageUrl}`,
@@ -30,7 +30,7 @@ export const personJsonLd = JSON.stringify(
     2,
 );
 
-const webSiteName = "Sameer Kumar | Software Developer";
+const webSiteName = "Ayush Negi | Software Developer";
 
 const webSiteDescription =
     "Software developer from India building fast, scalable web apps with TypeScript, React, Next.js, Node.js.";
