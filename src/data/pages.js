@@ -78,7 +78,7 @@ export const pageHeadings = {
 export const pageCopy = {
     copyright: "Ayush.dev © 2026",
     locations: {
-        origin: "Chhattisgarh, India",
+        origin: "Delhi, India",
         introduction: "I'm a software developer from",
         remoteExperience:
             ". I've worked in liqvid company",

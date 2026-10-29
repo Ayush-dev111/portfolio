@@ -82,7 +82,7 @@ export const contactLinks = {
     },
     linkedIn: {
         name: "linkedin",
-        url: "https://www.linkedin.com/in/ayush-negi",
+        url: "https://www.linkedin.com/in/ayush-negi11",
         iconName: "FaLinkedinIn",
         target: "_blank",
     },
@@ -208,7 +208,7 @@ export const experiences = [
         iconUrl: "/Liqvid-logo.png",
         position: "Full Stack Developer",
         location: "Noida, India",
-        period: "Dec 2025 - Present",
+        period: "Feb 2025 - Present",
         points: [
             "Developed a high-performance **eBook reader** with **React.js** and **Tailwind CSS**, reducing rendering time by ||30%||.",
             "Integrated **Swagger-documented REST APIs** for efficient, scalable content delivery.",
@@ -216,11 +216,11 @@ export const experiences = [
         ],
     },
     {
-        company: "Dice Academy",
-        iconUrl: "/Dice-logo.jfif",
+        company: "4th Dimension digital studio",
+       iconUrl: "4th_dimension_communication_services_logo.jfif",
         position: "Full Stack Developer",
-        location: "Saket, India",
-        period: "Jul 2025 - Dec 2025",
+        location: "GK-2, India",
+        period: "Sep 2025 - Jan 2025",
         points: [
             "Built responsive, **production-ready web applications** using **React.js** and **Tailwind CSS**.",
             "Improved code quality through **debugging**, **optimization**, and development best practices.",
@@ -233,14 +233,14 @@ export const education = [
         institution: "Indira Gandhi National Open University",
         iconUrl: "/ignou-logo.jfif",
         qualification: "Bachelor of Computer Application",
-        period: "2024 - 2027",
+        period: "2023 - 2026",
         points: ["Focused on full-stack development and problem solving."],
     },
     {
         institution: "Dice Academy",
         iconUrl: "/Dice-logo.jfif",
         qualification: "Full-Stack Development Course",
-        period: "2025 - 2026",
+        period: "2024 - 2025",
         points: [
             "Learned modern JavaScript, React, Express.js, MongoDB, and responsive UI patterns through real-world projects.",
         ],
